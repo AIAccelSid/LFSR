@@ -106,6 +106,7 @@ endmodule '''
 Sure! Here’s a ready-to-go `README.md` file based on your Verilog simulation project.
 
 ---
+<img width="590" alt="Screenshot 2025-03-31 064639" src="https://github.com/user-attachments/assets/b06a3cde-227d-4089-81b3-5c8996466d20" />
 
 ```markdown
 # LFSR Simulation
