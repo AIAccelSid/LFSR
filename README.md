@@ -103,7 +103,7 @@ module lfsr_tb;
         $finish;
     end
 endmodule '''
-(base) PS C:\Users\futur\Desktop\vscode_verilog> iverilog -o simulation LFSR_.v 
+'''(base) PS C:\Users\futur\Desktop\vscode_verilog> iverilog -o simulation LFSR_.v 
 (base) PS C:\Users\futur\Desktop\vscode_verilog> vvp simulation
 VCD info: dumpfile lfsr_tb.vcd opened for output.
 Time: 0 | rst: 1 | lfsr_out: 00000001
@@ -166,7 +166,7 @@ GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
 
 [0] start time.
 [510000] end time.
-GTKWAVE | Select one or more traces.
+GTKWAVE | Select one or more traces. '''
 
 <img width="590" alt="Screenshot 2025-03-31 064639" src="https://github.com/user-attachments/assets/84de0e1c-61c6-48db-a08a-8d8115fb851f" />
 
