@@ -56,6 +56,8 @@ module lfsr #(
 endmodule
 ```
 ✅ **Testbench included** for waveform simulation.
+<img width="590" alt="Screenshot 2025-03-31 064639" src="https://github.com/user-attachments/assets/84de0e1c-61c6-48db-a08a-8d8115fb851f" />
+
 
 ---
 
