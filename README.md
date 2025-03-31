@@ -242,6 +242,7 @@ plt.title("LFSR Output Sequence")
 plt.show()
 ```
 ✅ **Matplotlib used for randomness visualization.**
+![Figure_1](https://github.com/user-attachments/assets/abb680fd-1969-4a77-bd90-bfdfc6518ddd)
 
 ---
 
